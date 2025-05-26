@@ -1,18 +1,12 @@
 # 🎨 MUSEUM - "Cada cuadro es una historia que solo el alma puede contar."
 
-**MUSEUM** El arte es la más bella de todas las cosas, por eso te ofrecemos valor, color, autenticidad y muchas opciones para que no solo decores tus paredes sino que también llenes tu alma de tranquilidad.
-
+**MUSEUM** Esta página web está creada con html, css y js con el fin de diseñar, construir y ofrecer una experiencia de usuario única y atractiva. Es disponible tanto en vista móvil como en escritorio y te ofrece un servicio de compra fácil de entender, rápido y cómodo.
 ---
 
 ## 🖼️ Vista previa del diseño
 
 ### 🏠 Página de inicio
 ![previsualizacion](./multimedia/Portada%20museum.png)
-
-
-
-
-
 
 ---
 
@@ -21,10 +15,9 @@
 - [Características](#-características)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Estructura del proyecto](#-estructura-del-proyecto)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
+- [Recomendaciones](#-recomendaciones)
 - [Autores](#-autores)
-- [Licencia](#-licencia)
+- [Ejecucion local](#-ejecucion-local)
 
 ---
 
@@ -43,12 +36,12 @@
 - **Frontend:**
   - HTML5, CSS (Flexbox)
   - JavaScript 
-  - Bootstrap , frameworks
+  - Bootstrap , frameworks, responsive
 
 - **Otros:**
   - Canva (diseño y maquetacion)
   - Git y GitHub (control de versiones)
-  - API - shopping
+  - RapidAPI
 
 ---
 
@@ -79,3 +72,25 @@ MUSEUM/
 ├── README.md
 └── script.js
 
+---
+
+## 📲 Recomendaciones
+
+Para ver correctamente el proyecto:
+
+1. Abrir los archivos HTML desde un navegador en **modo dispositivo móvil o PC**.
+
+---
+
+## 😊 Autores
+
+Proyecto realizado por Valentina Delgado
+
+
+
+---
+
+## Ejecución local
+1. Repositorio:
+   ```bash
+   github https://github.com/ValentinaDelgadoRincon/MUSEUM  
