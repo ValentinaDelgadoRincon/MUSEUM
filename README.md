@@ -13,6 +13,7 @@
 ## 📚 Índice
 
 - [Características](#-características)
+- [Link maquetación](#-link-maquetación)
 - [Tecnologías utilizadas](#-tecnologías-utilizadas)
 - [Estructura del proyecto](#-estructura-del-proyecto)
 - [Recomendaciones](#-recomendaciones)
@@ -20,7 +21,10 @@
 - [Ejecucion local](#-ejecucion-local)
 
 ---
+## 🎨Link maquetación
+- https://www.canva.com/design/DAGoUtNx5BA/KSjFGQ2zozFI4WUAFnIzDw/edit?utm_content=DAGoUtNx5BA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+---
 ## ✨ Características
 
 - 🎨 Galería dinámica de cuadros únicos
@@ -36,12 +40,14 @@
 - **Frontend:**
   - HTML5, CSS (Flexbox)
   - JavaScript 
-  - Bootstrap , frameworks, responsive
+  - Responsive
 
 - **Otros:**
   - Canva (diseño y maquetacion)
   - Git y GitHub (control de versiones)
   - RapidAPI
+  - https://api.artic.edu/api/v1/artworks
+  
 
 ---
 
