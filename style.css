@@ -221,6 +221,10 @@ header .fa-bars {
     padding-bottom: 3rem;
 }
 
+.about #contenedornosotros {
+    display: none;
+}
+
 .about .row .video-container{
     flex: 1 1 40rem;
     position: relative;
@@ -506,3 +510,91 @@ header .fa-bars {
     color: var(--pink);
 }
 
+
+.form-mensaje {
+    margin-top: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 1.5rem;
+    text-align: center;
+    transition: all 0.3s ease;
+  }
+  
+  .form-mensaje.valido {
+    color: #070707;
+    background-color: #ec0b74;
+    border: 1px solid #000000;
+  }
+  
+  .form-mensaje.error {
+    color: #000000;
+    background-color: #e41313;
+    border: 1px solid #000000;
+  }
+  
+  #contenedornosotros p {
+    white-space: pre-line;
+  }
+  
+
+
+  .login {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: sans-serif;
+    background: #f0f0f0;
+    margin: 0;
+  }
+
+  .login-container, .success-container {
+    background: rgb(247, 139, 241);
+    padding: 2rem;
+    border-radius: 10px;
+    font-size: 2rem;
+    box-shadow: 0 0 20px rgba(0,0,0,0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+  }
+
+  input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #000000;
+  }
+
+  button {
+    width: 100%;
+    background: #e60991;
+    color: rgb(0, 0, 0);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background: #f07d87;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  .volver-btn {
+    margin-top: 20px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e90ed7;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .volver-btn:hover {
+    background-color: #fd6f6f;
+  }
