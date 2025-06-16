@@ -47,7 +47,7 @@ section{
     color: #fff;
     padding: .9rem 3.5rem;
     cursor: pointer;
-    font-size: 1.7rem;
+    font-size: 1.5rem;
     width: 40%;
 }
 
@@ -448,6 +448,13 @@ header .fa-bars {
 .contact .row .image img {
     width: 60rem;
 }
+
+@media (max-width:450px){
+    .contact .row .image img {
+        width: 45rem;
+    }
+}
+
 
 .contact .row form .box {
     padding: 1rem;
