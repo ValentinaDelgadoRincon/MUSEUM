@@ -1,6 +1,6 @@
 # 🎨 MUSEUM - "Cada cuadro es una historia que solo el alma puede contar."
 
-**MUSEUM** Esta página web está creada con html, css y js con el fin de diseñar, construir y ofrecer una experiencia de usuario única y atractiva. Es disponible tanto en vista móvil como en escritorio y te ofrece un servicio de compra fácil de entender, rápido y cómodo.
+Esta página web está creada con html, css y js con el fin de diseñar, construir y ofrecer una experiencia de usuario única y atractiva. Es disponible tanto en vista móvil como en escritorio y te ofrece un servicio de compra fácil de entender, rápido y cómodo.
 ---
 
 ## 🖼️ Vista previa del diseño
@@ -28,8 +28,8 @@
 ## ✨ Características
 
 - 🎨 Galería dinámica de cuadros únicos
-- 📦 Carrito de compras e integración de pago simulada
-- 🔍 Filtro por tamaño, precio y estilo
+- 📦 Integración de pago simulada
+- 🔍 Actualización de cuadros disponibles
 - 📱 Diseño responsive (adaptable a móviles y tablets)
 - 📧 Formulario de contacto y google maps
 
